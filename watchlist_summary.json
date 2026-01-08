@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-01-08 04:41:56",
+  "total_tracked": 19,
+  "stage_distribution": {
+    "stage_1": 0,
+    "stage_2": 0,
+    "stage_3": 0,
+    "stage_4": 3,
+    "stage_5": 10,
+    "stage_6": 1,
+    "stage_7": 4,
+    "stage_8": 0,
+    "stage_9": 1
+  },
+  "sector_distribution": {
+    "Financial Services": 7,
+    "Basic Materials": 7,
+    "Industrials": 4,
+    "Communication Services": 1
+  },
+  "market_cap_distribution": {
+    "Large Cap": 13,
+    "Mid Cap": 6
+  },
+  "qualified_count": 1,
+  "close_to_qualified": 4,
+  "top_improvers": [],
+  "avg_days_on_watchlist": 0.0
+}
